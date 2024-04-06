@@ -84,6 +84,7 @@ Welcome to SymptoCare, a hackathon project where innovation meets healthcare eff
   * JSZip
   * JSZip-utils
   * FileSaver.js
+  * Lanchain
 ## How to run
 Visit the website at [https://shubhranil-basak.github.io/SymtoCare/](https://shubhranil-basak.github.io/SymtoCare/).
 ## Deployment
