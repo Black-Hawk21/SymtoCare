@@ -11,14 +11,61 @@ Machine Learning
 ## Problem Statement
 
 In India, a critical imbalance persists between the availability of medical professionals and the ever-expanding healthcare needs of the population. With a doctor-to-patient ratio of 1:1457, significantly below the WHO's recommended ratio of 1:1000, our healthcare system confronts formidable challenges in delivering timely and accurate diagnoses. This deficit not only strains medical resources but also exacerbates disparities in access to healthcare, affecting individuals across diverse socio-economic backgrounds and geographic locations. From bustling urban centers to remote rural villages, the shortfall of medical professionals impedes equitable healthcare delivery, underscoring the urgent need for comprehensive solutions to bridge this gap and ensure the well-being of all citizens.
+
 ## Goal
 
 To address this pressing issue, our team has developed the website base service "SymtoCare" aimed at supporting medical professionals. At SymtoCare, our mission is to revolutionize healthcare by harnessing the power of artificial intelligence to deliver accurate and timely disease identification, empowering both doctors and patients to make informed decisions and improve outcomes. We are committed to advancing medical diagnostics through innovation, compassion, and ethical practice, ensuring every individual receives the highest standard of care while safeguarding their privacy and dignity.
+
+## About Us
+
+Welcome to SymptoCare, a hackathon project where innovation meets healthcare efficiency! We are a team of passionate individuals brought together by the challenge of the hackathon and driven by the belief that technology can revolutionize the way healthcare operates. With a focus on saving valuable time for medical professionals, we have embarked on a journey to develop an AI-powered solution that streamlines the analysis of medical images. At SymptoCare, our mission is clear: to empower doctors and healthcare providers with cutting-edge tools that enhance their decision-making process and ultimately improve patient outcomes. By harnessing the power of artificial intelligence, we aim to alleviate the burden on medical professionals, allowing them to allocate more time to patient care and less time to administrative tasks.
+
 ## Features
 
 
 ## Tech Stack
 
+### Frontend
+* HTML
+* CSS
+* Gradio
+### Backend
+* HuggingFace
+* HuggingFace Autotrain
+* Firebase Authentication
+* Firebase Realtime Databasse
+* Firebase Storage
+* Docker
+### Languages
+* Python
+* JavaScript
+* Bash
+* Cuda
+### Tools
+* Roboflow
+* VS Code
+* Github
+* Jupyter Notebook
+* Google Colab
+### Libraries/Framework
+* Python
+  * Tensorflow
+  * Keras
+  * Numpy
+  * Pandas
+  * Matplotlib
+  * Pytorch
+  * Seaborn
+  * Scikit-learn
+  * Langchain
+* JavaScript
+  * Bootstrap
+  * Node.js
+  * JSZip
+  * JSZip-utils
+  * FileSaver.js
+
+HuggingFace; HuggingFace Autotrain; Firebase Authentication, Realtime Database, and Storage; Roboflow; Gradio; Docker; VS Code; HTML; CSS; JS;  
 
 ## How to run
 ## Deployment
