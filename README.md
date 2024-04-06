@@ -87,6 +87,15 @@ Welcome to SymptoCare, a hackathon project where innovation meets healthcare eff
   * Lanchain
 ## How to run
 Visit the website at [https://shubhranil-basak.github.io/SymtoCare/](https://shubhranil-basak.github.io/SymtoCare/).
+
+### As a patient
+* Sign up or login as a patient by clicking the Login button.
+* After that, it will open up a page where one can select the doctor whom one wants to send data to.
+
+### As a doctor
+* Sign up or login as a doctor by clicking the Login button.
+* After that, it will open up a page where one can select the models which one wants to use and also download patient data corresponding to the patients whom have been assigned to that doctor.
+
 ## Deployment
 The website is deployed on Github and the user data is securely stored in Firebase. 
 ## Applications
