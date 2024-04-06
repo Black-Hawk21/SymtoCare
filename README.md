@@ -100,7 +100,7 @@ The website is deployed on Github and the user data is securely stored in Fireba
 * Enhances diagnostic accuracy and expediates the interpretation of chest radiographs.
 
 ### Prescription Summarizer
-* Automatically analyzes and summarizes prescription details, including medication names, dosages, and instructions.
+* Automatically analyzes and summarizes prescription details, including medication names, past conditions and treatments and other medical entities.
 * Facilitates better patient understanding and adherence to prescribed treatment regimens.
 
 ### Skin Cancer Classifier
