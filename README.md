@@ -22,6 +22,25 @@ Welcome to SymptoCare, a hackathon project where innovation meets healthcare eff
 
 ## Features
 
+### General Features
+* Registration and Login using Firebase Authentication and Firebase Realtime Database
+* Uploading and Downloading documents using Firebase Cloud Storage
+* Health Related Blogs
+
+### Models Available
+* White Blood Cell Classifier
+* Chest X-ray Classifier
+* Prescription Summarizer
+* Skin Cancer Classifier
+* Eye Retina Classifier
+* Liver Cell Disease Detector
+
+### Patient Side Features
+* Uploading Diagnostic Reports and Documents
+
+### Doctor Side Features
+* Downloading zip file containing patient data using JSZip
+* Use the the ML Model for analysis of the images or text
 
 ## Tech Stack
 
@@ -33,8 +52,8 @@ Welcome to SymptoCare, a hackathon project where innovation meets healthcare eff
 * HuggingFace
 * HuggingFace Autotrain
 * Firebase Authentication
-* Firebase Realtime Databasse
-* Firebase Storage
+* Firebase Realtime Database
+* Firebase Cloud Storage
 * Docker
 ### Languages
 * Python
@@ -64,10 +83,8 @@ Welcome to SymptoCare, a hackathon project where innovation meets healthcare eff
   * JSZip
   * JSZip-utils
   * FileSaver.js
-
-HuggingFace; HuggingFace Autotrain; Firebase Authentication, Realtime Database, and Storage; Roboflow; Gradio; Docker; VS Code; HTML; CSS; JS;  
-
 ## How to run
+
 ## Deployment
 
 We are deploying the website on github and the backend for storing all the files and data we are using Firebase.
