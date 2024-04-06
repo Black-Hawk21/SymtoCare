@@ -1,0 +1,74 @@
+*{
+    text-decoration: none;
+
+}
+
+body {
+    background: linear-gradient(135deg, red, blue);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+
+
+#patient, #doctor {
+    margin: 0 10px;
+}
+
+#patient button, #doctor button {
+    color: rgb(255, 255, 255);
+    background-color: rgb(113, 2, 198);
+    width: auto;
+    height: 50px;
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-size: large;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: solid black;
+    outline: none;
+    transition: transform 0.3s ease; /* Transition for button click animation */
+}
+
+#patient, #doctor{
+    margin: 0 10px;
+}
+
+#patient button:hover, #doctor button:hover {
+    cursor: pointer;
+}
+
+#patient button {
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+#doctor button {
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+main {
+    display: flex;
+    justify-content: center; /* horizontally center the buttons */
+    align-items: center; /* vertically center the buttons */
+    height: 100vh; /* make the main container full height of the viewport */
+}
+
+footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a{
+    margin: 0 50px;
+    text-decoration: none;
+}

@@ -1,0 +1,13 @@
+.logo-container-shubh {
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    align-items: left;
+}
+
+.AppHeader-logo {
+    text-decoration: none; /* Remove underline */
+}
+
+.v-align-middle {
+    vertical-align: middle;
+}
