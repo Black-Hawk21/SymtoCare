@@ -3,7 +3,6 @@
 Machine Learning
 
 ## Contributors
-Contributors:
 * Shubhranil Basak
 * Sahil Kolte
 * Aryan Bansal
