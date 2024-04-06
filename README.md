@@ -124,3 +124,27 @@ We are thnking of adding a two statistical models.
 
 *
 ## Demo video
+
+## Useful Links
+
+* "25+ Responsive Templates for Medical Websites." [ThemeWagon](https://themewagon.com/blog/responsive-templates-for-medical-websites/). Accessed 6 Apr. 2024.
+* Abhirooptalasila. "[Smart-Lightweight-Medical-Query-System](https://github.com/abhirooptalasila/Smart-Lightweight-Medical-Query-System/tree/main)." GitHub. Accessed 6 Apr. 2024.
+* "Cloud Storage for Firebase." [Firebase, Google](https://firebase.google.com/docs/storage/). Accessed 6 Apr. 2024.
+* Foolish Developer. "How to Create Pop up Login Form Using HTML and CSS." [Foolishdeveloper.Com](http://foolishdeveloper.com/how-to-create-pop-up-login-form-using-html-and-css/#:~:text=1%20Step%201%3A%20Create%20the%20basic%20structure%20of,5%3A%20Activate%20the%20popup%20button%20using%20JavaScript%20code). Accessed 6 Apr. 2024.
+* "Firebase Authentication." [Firebase, Google](https://firebase.google.com/docs/auth/). Accessed 6 Apr. 2024.
+* "Firebase Realtime Database." [Firebase, Google](https://firebase.google.com/docs/database/). Accessed 6 Apr. 2024.
+* "Google’s Mobile and Web App Development Platform." [Firebase, Google](https://firebase.com/). Accessed 6 Apr. 2024.
+* "Hacknite - A NeuronZero Collection." [Hugging Face](https://huggingface.co/collections/NeuronZero/hacknite-660b9be83fbd33a1d0f836df). Accessed 6 Apr. 2024.
+* "Health Information and Medical Information." [Harvard Health](https://www.health.harvard.edu/). Accessed 6 Apr. 2024.
+* "Liver-YOLO Object Detection Dataset by Liveryolo." [Roboflow](https://universe.roboflow.com/liveryolo/liver-yolo). Accessed 6 Apr. 2024.
+* Lobsterpants. "[Javascript Import for Filesaver.Js](https://stackoverflow.com/questions/51649898/javascript-import-for-filesaver-js)." Stack Overflow. Accessed 6 Apr. 2024.
+* "Manage Users in Firebase." [Google](https://firebase.google.com/docs/auth/web/manage-users). Accessed 6 Apr. 2024.
+* "Medifind Symptom Checker." [Medifind.Com](https://www.medifind.com/symptom-checker). Accessed 6 Apr. 2024.
+* Namenone, et al. "[Saving Images from URL Using JSzip](https://stackoverflow.com/questions/26635627/saving-images-from-url-using-jszip)." Stack Overflow. Accessed 6 Apr. 2024.
+* "NeuronZero/CXR-Classifier." [Hugging Face](http://huggingface.co/NeuronZero/CXR-Classifier). Accessed 6 Apr. 2024.
+* "NeuronZero/MED-NER." [Hugging Face](http://huggingface.co/NeuronZero/MED-NER). Accessed 6 Apr. 2024.
+* "NeuronZero/MRI-Reader." [Hugging Face](http://huggingface.co/NeuronZero/MRI-Reader). Accessed 6 Apr. 2024.
+* "NeuronZero/WBC-Classifier." [Hugging Face](http://huggingface.co/NeuronZero/WBC-Classifier). Accessed 6 Apr. 2024.
+* New-Way. "[Firebase Storage Access to Fetch at ‘..’ Has Been Blocked by Cors Policy: No ‘Access-Control-Allow-Origin’ Header Is Present on the Requested Resource](https://stackoverflow.com/questions/71193348/firebase-storage-access-to-fetch-at-has-been-blocked-by-cors-policy-no-ac)." Stack Overflow. Accessed 6 Apr. 2024.
+* Silkalns, Aigars. "[WordPress Themes & Website Templates](http://colorlib.com/)." Colorlib. Accessed 6 Apr. 2024.
+
