@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/jpg" href="favicon.jpg">
+    <link rel="stylesheet" href="patient.css">
+    <script src="patient.js" defer></script>
+    <title>Symptom to Diagnosis</title>
+</head>
+<body>
+    <a href="../index.html">
+    <img src="logo-removebg-preview - Copy.png" class="brand-logo" alt="Brand Logo">
+    </a>
+    <form>
+        <div id="symptoms">
+            <textarea placeholder="Describe your problem" rows="4" cols="50"></textarea>
+        </div>
+        <br>
+        <button type="submit" id="diagnose">Diagnose!</button>
+    </form>
+
+    <!-- Result boxes -->
+    <div id="result-container">
+        <div class="result-box" id="result-1">
+            <div class="result-score" id="score-1"></div>
+            <div class="result-description" id="description-1"></div>
+        </div>
+        <div class="result-box" id="result-2">
+            <div class="result-score" id="score-2"></div>
+            <div class="result-description" id="description-2"></div>
+        </div>
+        <div class="result-box" id="result-3">
+            <div class="result-score" id="score-3"></div>
+            <div class="result-description" id="description-3"></div>
+        </div>
+    </div>
+</body>
+
+</html>
