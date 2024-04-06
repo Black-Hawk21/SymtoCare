@@ -66,6 +66,7 @@ Welcome to SymptoCare, a hackathon project where innovation meets healthcare eff
 * Github
 * Jupyter Notebook
 * Google Colab
+* Ollama
 ### Libraries/Framework
 * Python
   * Tensorflow
@@ -84,11 +85,36 @@ Welcome to SymptoCare, a hackathon project where innovation meets healthcare eff
   * JSZip-utils
   * FileSaver.js
 ## How to run
-
+Visit the website at [https://shubhranil-basak.github.io/SymtoCare/](https://shubhranil-basak.github.io/SymtoCare/).
 ## Deployment
-
-We are deploying the website on github and the backend for storing all the files and data we are using Firebase.
+The website is deployed on Github and the user data is securely stored in Firebase. 
 ## Applications
+
+### White Blood Cell Classifier
+* Assists in diagnosing various blood-related disorders by accurately classifying white blood cell types.
+* Allows doctors to quickly identigy potential infections or abnormalities in blood samples.
+
+### Chest X-ray Classifier
+* Aids doctors in detecting pulmonary conditions by identifying whether an x-ray scan of a patient is diseased or not.
+* Enhances diagnostic accuracy and expediates the interpretation of chest radiographs.
+
+### Prescription Summarizer
+* Automatically analyzes and summarizes prescription details, including medication names, dosages, and instructions.
+* Facilitates better patient understanding and adherence to prescribed treatment regimens.
+
+### Skin Cancer Classifier
+* Utilizes AI to classify skin lesions and identify potential indicators of skin cancer.
+* Enables early detection and intervention, improving patient outcomes and reducing mortality rates.
+
+### Eye Retina Classifier
+* Assists ophthalmologists in detecting retinal diseases such as diabetic retinopathy, macular degeneration, or glaucoma.
+* Offers timely diagnosis and monitoring of eye conditions to prevent vision loss or blindness.
+
+### Liver Cell Disease Detector:
+
+* Analyzes liver cell images to identify signs of liver diseases.
+* Enables proactive management of liver health and facilitates early intervention to prevent disease progression.
+
 ## Further improvements
 
 We are thnking of adding a two statistical models. 
