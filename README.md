@@ -118,8 +118,8 @@ Visit the website at [https://shubhranil-basak.github.io/SymtoCare/](https://shu
 * After that, it will open up a page where one can select the models which one wants to use and also download patient data corresponding to the patients whom have been assigned to that doctor.
 
 ## Deployment
-### Online
-  The website is deployed on Github and the user data is securely stored in Firebase. 
+### Online Website
+  The website is deployed on Github at [https://shubhranil-basak.github.io/SymtoCare/](https://shubhranil-basak.github.io/SymtoCare/) and the user data is securely stored in Firebase. 
 ### Run on Local Machine
   To use this service on the local machine, clone this repo using the command:
   ```
