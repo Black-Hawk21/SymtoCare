@@ -230,4 +230,5 @@ Please visit the demo video at [https://youtu.be/uxcSVC_GJTE](https://youtu.be/u
 * "NeuronZero/WBC-Classifier." [Hugging Face](http://huggingface.co/NeuronZero/WBC-Classifier). Accessed 6 Apr. 2024.
 * New-Way. "[Firebase Storage Access to Fetch at ‘..’ Has Been Blocked by Cors Policy: No ‘Access-Control-Allow-Origin’ Header Is Present on the Requested Resource](https://stackoverflow.com/questions/71193348/firebase-storage-access-to-fetch-at-has-been-blocked-by-cors-policy-no-ac)." Stack Overflow. Accessed 6 Apr. 2024.
 * Silkalns, Aigars. "[WordPress Themes & Website Templates](http://colorlib.com/)." Colorlib. Accessed 6 Apr. 2024.
-
+* "open-webui." "[open-webui/open-webui](https://github.com/open-webui/open-webui)". Accessed on 6 Apr. 2024
+* "Ollama." "[ollama.com](https://ollama.com/)". Accessed on 6 Apr. 2024
