@@ -130,12 +130,14 @@ The website is deployed on Github and the user data is securely stored in Fireba
 
 ## Further improvements
 
-We are thnking of adding a two statistical models. 
+We are thinking of adding two statistical models. 
 
-* On the patient's side we are planning on implementing a statistical model where on entering specific data, the model will determine the possibility of wether the person will suffer from a heart attack or not.
-* We are also planning on implementing a model which will take data and determine whether it is necessary to admit the patient in the hospital or the patient has the chances of healing naturally over time.
-* We are trying to implement the chat-bot feature both in offline and online mode.
+* On the patient's side, we are planning on implementing a statistical model where on entering specific data, the model will determine the possibility of whether the person will suffer from a heart attack or not.
+* We are also planning on implementing a model which will take data and determine whether it is necessary to admit the patient in the hospital or if the patient can heal naturally over time.
+* Finally, we are trying to implement a chat-bot feature both in offline and online mode.
 ## Demo video
+
+Please visit the demo video at [https://youtu.be/uxcSVC_GJTE](https://youtu.be/uxcSVC_GJTE).
 
 ## Useful Links
 
