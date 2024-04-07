@@ -54,6 +54,10 @@ Welcome to SymptoCare, a hackathon project where innovation meets healthcare eff
 * Downloading zip file containing patient data using JSZip
 * Use the the ML Model for analysis of the images or text
 
+### Offline Feature
+In the offline version, both the patient and the doctor can use a medical chat bot that will run on their local device.
+Doctors can use it to get information about various topics from the field of medicine. On the other hand it can also be used by patients where on entering the symptoms, the chat bot will be able to determine the diagnosis.
+
 ## Tech Stack
 
 ### Frontend
@@ -114,7 +118,27 @@ Visit the website at [https://shubhranil-basak.github.io/SymtoCare/](https://shu
 * After that, it will open up a page where one can select the models which one wants to use and also download patient data corresponding to the patients whom have been assigned to that doctor.
 
 ## Deployment
-The website is deployed on Github and the user data is securely stored in Firebase. 
+### Online
+  The website is deployed on Github and the user data is securely stored in Firebase. 
+### Offline
+  To use this service on the local machine, clone this repo using the command:
+  ```
+git clone https://github.com/Shubhranil-Basak/SymtoCare.git
+  ```
+After that run the main [index.html](index.html) file.
+
+To run the chat bot, follow these steps:
+1. Download docker from [here](https://www.docker.com/products/docker-desktop/)
+2. Download Ollama to run the Medllama2 model form [here](https://ollama.com/download)
+3. Open you terminal and type:
+```
+ollama run medllama2
+```
+4. After the files are downloaded, run this command on the terminal
+```
+docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
+```
+5. This might ask you to sign-up, just follow the instruction and then you can chat with the medical chat-bot Medllama2.
 
 ## Models
 
