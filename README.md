@@ -18,7 +18,7 @@ Machine Learning
    * Integrated the models on the website
    * Formated the API responses from the huggingface models
 * Sahil Kolte
-   * Created the SymptoCare website
+   * Created the SymptoCare Website
    * Managed the firebase data storage
    * Integrated the models on the website
    * Formated the API responses from the huggingface models
