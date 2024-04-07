@@ -77,6 +77,7 @@ Welcome to SymptoCare, a hackathon project where innovation meets healthcare eff
 * Jupyter Notebook
 * Google Colab
 * Ollama
+* PubMED
 * Zoom
 * Microsoft Clipchamp
 * Youtube
@@ -120,17 +121,20 @@ The website is deployed on Github and the user data is securely stored in Fireba
 * Takes a stained image of a single White Blood Cell and claasifies it out of 8 possible classes.
 * It can be used to identify location of diseases based on accumulation location and type of WBC present in a location.
 * Allows doctors to quickly identigy potential infections or abnormalities in blood samples.
+* WBC-Classifier is a fine-tuned version of [resnet-50](https://huggingface.co/microsoft/resnet-50), a convolutional neural network that democratized the concepts of residual learning and skip connections. This model has been fine tuned on this [dataset](https://huggingface.co/datasets/Falah/Blood_8_classes_Dataset). 
 * For more info, follow this [link](https://huggingface.co/NeuronZero/WBC-Classifier)
 
 ### Chest X-ray Classifier
 * Takes a normal picture of a x-ray and clssifies it as either diseased or normal.
 * Enhances diagnostic accuracy and expediates the interpretation of chest radiographs.
+* The CXR Classifier is a fine-tuned version of [Vision Transformer](https://huggingface.co/google/vit-base-patch16-224)--a transformer encoder model (BERT-like) pretrained on a large collection of images. 
 * For more info, follow this [link](https://huggingface.co/NeuronZero/CXR-Classifier)
 
 ### Prescription Summarizer
 * Hosted on gradio, this model take in natural language input of the symptoms faced by the patient
 * Automatically analyzes and summarizes prescription details, including medication names, past conditions and treatments and other medical entities.
 * Facilitates better patient understanding and adherence to prescribed treatment regimens.
+* The Prescription Summarizer is a fine-tuned version of [https://huggingface.co/microsoft/deberta-v3-base](DeBERTaV3) on the PubMED Dataset.
 * For more info, follow this [link](https://huggingface.co/NeuronZero/MED-NER)
 * To use the model, click on this [link](https://huggingface.co/spaces/NeuronZero/PrescriptionReader)
 
@@ -138,19 +142,22 @@ The website is deployed on Github and the user data is securely stored in Fireba
 * It take standard picute of the affected area of the skin and classifies it out of 6 classes
 * Utilizes AI to classify skin lesions and identify potential indicators of skin cancer.
 * Enables early detection and intervention, improving patient outcomes and reducing mortality rates.
+* SkinCancer-Classifier is a fine-tuned version of [swin-base](https://huggingface.co/microsoft/swin-base-patch4-window12-384-in22k)--a type of Vision Transformer that builds hierarchical feature maps by merging image patches in deeper layers--trained on this [dataset](https://huggingface.co/datasets/Pranavkpba2000/skin_cancer_dataset).
 * For more info, follow this [link](https://huggingface.co/NeuronZero/SkinCancerClassifier)
 
 ### Eye Retina Classifier
 * It takes in a piture of the patients retina and cllasifies it out of 8 different classes.
 * Assists ophthalmologists in detecting retinal diseases such as diabetic retinopathy, macular degeneration, or glaucoma.
 * Offers timely diagnosis and monitoring of eye conditions to prevent vision loss or blindness.
-* For more info, follow this [link](https://huggingface.co/NeuronZero/SkinCancerClassifier)
+* Eye Retina Classifier is a fine tuned version of [BEiT-base-path-16](https://huggingface.co/microsoft/beit-base-patch16-224-pt22k-ft22k)-- a Vision Transformer--trained on this [dataset](https://huggingface.co/datasets/mujammil131/eyeDiseasDdetectionModel).
+* For more info, follow this [link](https://huggingface.co/NeuronZero/EyeDiseaseClassifier)
 
 ### Liver Cell Disease Detector:
 * It is YOLO V8 model that takea in image of a liver tissue and encircles the effected areas.
 * It can identify effected areas out of 4 classes.
 * Analyzes liver cell images to identify signs of liver diseases.
 * Enables proactive management of liver health and facilitates early intervention to prevent disease progression.
+* Liver Cell Disease Detector is a pre-trained Liver-YOLO computer vision model to classify different types of liver cell diseases.
 * Furthur information about this model can be found [here](https://universe.roboflow.com/liveryolo/liver-yolo/model/1)
 
 ## Further improvements
