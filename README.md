@@ -13,8 +13,8 @@ Machine Learning
    * Made the EDA for a few datsets
    * Managed API calls from huggingface
 * Aryan Bansal
-   * Managed the firebase data storage and backend
-   * Integrated the models on the website
+   * Implemented backend development with Firebase data storage
+   * Integrated the models on the SymptoCare website
    * Formated the API responses from the huggingface models
 * Sahil Kolte
    * Created the SymptoCare Website
