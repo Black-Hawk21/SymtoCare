@@ -9,7 +9,7 @@ Machine Learning
 
 ## Contributions
 * Shubhranil Basak
-   * Fine-tuned all the ML models
+   * Fine-tuned all the ML models from huggingface
    * Made the EDA for a few datsets
    * Managed API calls from huggingface
 * Aryan Bansal
