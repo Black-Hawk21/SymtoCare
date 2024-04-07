@@ -67,6 +67,9 @@ Welcome to SymptoCare, a hackathon project where innovation meets healthcare eff
 * Jupyter Notebook
 * Google Colab
 * Ollama
+* Zoom
+* Microsoft Clipchamp
+* Youtube
 ### Libraries/Framework
 * Python
   * Tensorflow
