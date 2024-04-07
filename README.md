@@ -13,15 +13,11 @@ Machine Learning
    * Made the EDA for a few datsets
    * Managed API calls from huggingface
 * Aryan Bansal
-   * Created the SymptoCare Website
    * Managed the firebase data storage
    * Integrated the models on the website
    * Formated the API responses from the huggingface models
 * Sahil Kolte
    * Created the SymptoCare Website
-   * Managed the firebase data storage
-   * Integrated the models on the website
-   * Formated the API responses from the huggingface models
 ## Problem Statement
 
 In India, a critical imbalance persists between the availability of medical professionals and the ever-expanding healthcare needs of the population. With a doctor-to-patient ratio of 1:1457, significantly below the WHO's recommended ratio of 1:1000, our healthcare system confronts formidable challenges in delivering timely and accurate diagnoses. This deficit not only strains medical resources but also exacerbates disparities in access to healthcare, affecting individuals across diverse socio-economic backgrounds and geographic locations. From bustling urban centers to remote rural villages, the shortfall of medical professionals impedes equitable healthcare delivery, underscoring the urgent need for comprehensive solutions to bridge this gap and ensure the well-being of all citizens.
