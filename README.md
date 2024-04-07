@@ -113,8 +113,6 @@ Visit the website at [https://shubhranil-basak.github.io/SymtoCare/](https://shu
 ## Deployment
 The website is deployed on Github and the user data is securely stored in Firebase. 
 
-## Applications
-
 ## Models
 
 ### White Blood Cell Classifier
@@ -159,6 +157,18 @@ The website is deployed on Github and the user data is securely stored in Fireba
 * Enables proactive management of liver health and facilitates early intervention to prevent disease progression.
 * Liver Cell Disease Detector is a pre-trained Liver-YOLO computer vision model to classify different types of liver cell diseases.
 * Furthur information about this model can be found [here](https://universe.roboflow.com/liveryolo/liver-yolo/model/1).
+
+## Future Applications
+* **'Automated Blood Cell Counting'**: The website could be integrated into automated blood cell counting systems, enhancing the speed and accuracy of diagnoses for conditions such as infections, leukemia, and autoimmune diseases.
+* **'Disease Diagnosis and Monitoring'**: By accurately identifying and classifying white blood cells, it could aid in the diagnosis and monitoring of various diseases and conditions, including infections, cancers, and autoimmune disorders.
+* **'Drug Development and Testing'**: It could be used in drug development and testing processes to evaluate the effects of pharmaceuticals on different types of white blood cells. This could facilitate the development of new treatments for diseases affecting the immune system.
+* **'Population Screening and Public Health Initiatives'**: It could play a role in population screening programs and public health initiatives aimed at early detection and intervention for lung diseases, such as tuberculosis, lung cancer, and pneumonia, particularly in high-risk populations or regions with limited access to healthcare resources.
+* **'Clinical Decision Support Systems'**: It could be integrated into clinical decision support systems (CDSS) to provide evidence-based recommendations and guidance to healthcare providers during the diagnostic process, facilitating more confident and informed decision-making.
+* **'Clinical Decision Support'**: A Prescription Summarizer can assist healthcare providers in quickly reviewing and understanding a patient's medication history, including current prescriptions, dosages, and any changes made over time. This can help clinicians make informed decisions about treatment plans, avoid potential drug interactions or duplications, and ensure medication adherence.
+* **'Medication Reconciliation'**: During transitions of care, such as hospital discharge or referral to another healthcare provider, accurate medication reconciliation is crucial to ensure continuity of care and patient safety. A Prescription Summarizer can facilitate this process by providing a concise overview of the patient's current medications, helping to identify discrepancies and prevent medication errors.
+* **'Health Analytics and Research'**: Aggregated data from Prescription Summarizer applications can be analyzed to gain insights into prescribing patterns, medication adherence rates, and trends in drug utilization. This information can inform healthcare policies, guide clinical guidelines, and support research efforts aimed at improving medication safety and effectiveness.
+* **'Second Opinion and Decision Support'**: Doctors can use skin cancer classifiers as a second opinion tool or decision support system to validate their initial assessments. It can provide additional information and confidence in diagnosis, especially in challenging cases.
+* **'Education and Training'**: It can serve as educational tools for medical students, residents, and others to learn about the visual characteristics of different diseases. By providing real-world examples and feedback, it can enhance learning and diagnostic skills.
 
 ## Further improvements
 
