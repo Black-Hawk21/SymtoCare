@@ -121,7 +121,7 @@ The website is deployed on Github and the user data is securely stored in Fireba
 * Takes a stained image of a single White Blood Cell and claasifies it out of 8 possible classes.
 * It can be used to identify location of diseases based on accumulation location and type of WBC present in a location.
 * Allows doctors to quickly identigy potential infections or abnormalities in blood samples.
-* WBC-Classifier is a fine-tuned version of [resnet-50](https://huggingface.co/microsoft/resnet-50), a convolutional neural network that democratized the concepts of residual learning and skip connections. This model has been fine tuned on this [dataset](https://huggingface.co/datasets/Falah/Blood_8_classes_Dataset). 
+* WBC-Classifier is a fine-tuned version of [resnet-50](https://huggingface.co/microsoft/resnet-50)--a convolutional neural network that democratized the concepts of residual learning and skip connections. This model has been fine tuned on this [dataset](https://huggingface.co/datasets/Falah/Blood_8_classes_Dataset). 
 * For more info, follow this [link](https://huggingface.co/NeuronZero/WBC-Classifier)
 
 ### Chest X-ray Classifier
