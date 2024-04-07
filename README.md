@@ -47,6 +47,7 @@ Welcome to SymptoCare, a hackathon project where innovation meets healthcare eff
 ### Frontend
 * HTML
 * CSS
+* SCSS
 * Gradio
 ### Backend
 * HuggingFace
