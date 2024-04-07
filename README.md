@@ -13,7 +13,7 @@ Machine Learning
    * Made the EDA for a few datsets
    * Managed API calls from huggingface
 * Aryan Bansal
-   * Built and managed the backend
+   * Built and managed the firebase backend
    * Fomated the API responses from the hugginface models
 * Sahil Kolte
    * Built and managed the frontend
