@@ -120,7 +120,7 @@ Visit the website at [https://shubhranil-basak.github.io/SymtoCare/](https://shu
 ## Deployment
 ### Online
   The website is deployed on Github and the user data is securely stored in Firebase. 
-### Offline
+### Run on Local Machine
   To use this service on the local machine, clone this repo using the command:
   ```
 git clone https://github.com/Shubhranil-Basak/SymtoCare.git
