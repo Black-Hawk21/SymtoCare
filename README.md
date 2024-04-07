@@ -7,7 +7,16 @@ Machine Learning
 * Sahil Kolte
 * Aryan Bansal
 
-
+## Contributions
+* Shubhranil Basak
+   * Fine-tuned all the ML models
+   * Made the EDA for a few datsets
+   * Managed API calls from huggingface
+* Aryan Bansal
+   * Built and managed the backend
+   * Fomated the API responses from the hugginface models
+* Sahil Kolte
+   * Built and managed the frontend
 ## Problem Statement
 
 In India, a critical imbalance persists between the availability of medical professionals and the ever-expanding healthcare needs of the population. With a doctor-to-patient ratio of 1:1457, significantly below the WHO's recommended ratio of 1:1000, our healthcare system confronts formidable challenges in delivering timely and accurate diagnoses. This deficit not only strains medical resources but also exacerbates disparities in access to healthcare, affecting individuals across diverse socio-economic backgrounds and geographic locations. From bustling urban centers to remote rural villages, the shortfall of medical professionals impedes equitable healthcare delivery, underscoring the urgent need for comprehensive solutions to bridge this gap and ensure the well-being of all citizens.
@@ -102,32 +111,47 @@ Visit the website at [https://shubhranil-basak.github.io/SymtoCare/](https://shu
 
 ## Deployment
 The website is deployed on Github and the user data is securely stored in Firebase. 
+
 ## Applications
 
+## Models
+
 ### White Blood Cell Classifier
-* Assists in diagnosing various blood-related disorders by accurately classifying white blood cell types.
+* Takes a stained image of a single White Blood Cell and claasifies it out of 8 possible classes.
+* It can be used to identify location of diseases based on accumulation location and type of WBC present in a location.
 * Allows doctors to quickly identigy potential infections or abnormalities in blood samples.
+* For more info, follow this [link](https://huggingface.co/NeuronZero/WBC-Classifier)
 
 ### Chest X-ray Classifier
-* Aids doctors in detecting pulmonary conditions by identifying whether an x-ray scan of a patient is diseased or not.
+* Takes a normal picture of a x-ray and clssifies it as either diseased or normal.
 * Enhances diagnostic accuracy and expediates the interpretation of chest radiographs.
+* For more info, follow this [link](https://huggingface.co/NeuronZero/CXR-Classifier)
 
 ### Prescription Summarizer
+* Hosted on gradio, this model take in natural language input of the symptoms faced by the patient
 * Automatically analyzes and summarizes prescription details, including medication names, past conditions and treatments and other medical entities.
 * Facilitates better patient understanding and adherence to prescribed treatment regimens.
+* For more info, follow this [link](https://huggingface.co/NeuronZero/MED-NER)
+* To use the model, click on this [link](https://huggingface.co/spaces/NeuronZero/PrescriptionReader)
 
 ### Skin Cancer Classifier
+* It take standard picute of the affected area of the skin and classifies it out of 6 classes
 * Utilizes AI to classify skin lesions and identify potential indicators of skin cancer.
 * Enables early detection and intervention, improving patient outcomes and reducing mortality rates.
+* For more info, follow this [link](https://huggingface.co/NeuronZero/SkinCancerClassifier)
 
 ### Eye Retina Classifier
+* It takes in a piture of the patients retina and cllasifies it out of 8 different classes.
 * Assists ophthalmologists in detecting retinal diseases such as diabetic retinopathy, macular degeneration, or glaucoma.
 * Offers timely diagnosis and monitoring of eye conditions to prevent vision loss or blindness.
+* For more info, follow this [link](https://huggingface.co/NeuronZero/SkinCancerClassifier)
 
 ### Liver Cell Disease Detector:
-
+* It is YOLO V8 model that takea in image of a liver tissue and encircles the effected areas.
+* It can identify effected areas out of 4 classes.
 * Analyzes liver cell images to identify signs of liver diseases.
 * Enables proactive management of liver health and facilitates early intervention to prevent disease progression.
+* Furthur information about this model can be found [here](https://universe.roboflow.com/liveryolo/liver-yolo/model/1)
 
 ## Further improvements
 
