@@ -107,7 +107,7 @@ Doctors can use it to get information about various topics from the field of med
   * FileSaver.js
   * Lanchain
 ## How to run
-Visit the website at [https://shubhranil-basak.github.io/SymtoCare/](https://shubhranil-basak.github.io/SymtoCare/).
+Visit the website at [https://black-hawk21.github.io/SymtoCare/](https://black-hawk21.github.io/SymtoCare/).
 
 ### As a patient
 * Sign up or login as a patient by clicking the Login button.
@@ -119,7 +119,7 @@ Visit the website at [https://shubhranil-basak.github.io/SymtoCare/](https://shu
 
 ## Deployment
 ### Online Website
-  The website is deployed on Github at [https://shubhranil-basak.github.io/SymtoCare/](https://shubhranil-basak.github.io/SymtoCare/) and the user data is securely stored in Firebase. 
+  The website is deployed on Github at [https://black-hawk21.github.io/SymtoCare/](https://black-hawk21.github.io/SymtoCare/) and the user data is securely stored in Firebase. 
 ### Run on Local Machine
   To use this service on the local machine, clone this repo using the command:
   ```
