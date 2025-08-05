@@ -123,7 +123,7 @@ Visit the website at [https://black-hawk21.github.io/SymtoCare/](https://black-h
 ### Run on Local Machine
   To use this service on the local machine, clone this repo using the command:
   ```
-git clone https://github.com/Shubhranil-Basak/SymtoCare.git
+git clone https://github.com/Black-Hawk21/SymtoCare.git
   ```
 After that run the main [index.html](index.html) file.
 
